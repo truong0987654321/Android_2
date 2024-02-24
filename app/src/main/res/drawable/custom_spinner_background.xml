@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><!-- res/drawable/custom_spinner_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state -->
+    <item>
+        <layer-list>
+            <item android:state_pressed="true">
+                <shape android:shape="rectangle">
+                    <solid android:color="@android:color/darker_gray" />
+                    <corners android:radius="8dp" />
+                    <padding android:left="8dp" android:right="8dp" />
+                </shape>
+            </item>
+            <item android:gravity="end"
+                android:drawable="@drawable/ic_arrow_down">
+                <shape android:shape="rectangle">
+                    <solid android:color="#DFCCCC" />
+                    <corners android:radius="8dp" />
+                    <padding android:left="8dp" android:right="8dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+
+</selector>
