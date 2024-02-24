@@ -1,5 +1,5 @@
 #### Dự án Sắp tới cho môn lập trình Android nâng cao</br>
-### Đề tài: app truyện tranh</br>
+### Đề tài: App truyện tranh</br>
 # Thành viên thực hiện:</br>
 |MTV  |MSSV        |Họ và tên                 |
 |:---:|:----------:|--------------------------|
