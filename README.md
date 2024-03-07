@@ -7,3 +7,4 @@
 |2    |3120410528  |Nguyễn Minh Tiến          |
 |3    |3120410572  |Nguyễn Hoàng Giang Trường |
 |4    |3120410415  |Trần Thiện Phúc           |
+|5    |3120410253  |Nguyễn Hữu Minh Khôi      |
